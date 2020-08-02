@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there :bug:
 
 <img src="https://github.com/skojaku/skojaku/blob/master/skojaku-welcome-top-image.png?raw=true" alt="banner that says Sadamori Kojaku - network science, science of science and graph embedding">
 
