@@ -2,7 +2,7 @@
 
 <img src="https://github.com/skojaku/skojaku/blob/master/skojaku-welcome-top-image.png?raw=true" alt="banner that says Sadamori Kojaku - network science, science of science and graph embedding">
 
-I am a post-doc working on at an intersection of Network Science, Science of Science and Graph embedding.
+I am a post-doc working at an intersection of Network Science, Science of Science and Graph embedding.
 
 ### Profile
 - [Publications (Google Scholar)](https://scholar.google.com/citations?user=IyWt4R4AAAAJ&hl=en)
