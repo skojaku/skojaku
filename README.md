@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github.com/skojaku/skojaku/blob/master/skojaku-welcome-top-mage.png?raw=true" alt="banner that says Sadamori Kojaku - network science, science of science and graph embedding">
+
 <!--
 **skojaku/skojaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
