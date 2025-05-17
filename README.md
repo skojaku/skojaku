@@ -1,6 +1,6 @@
 ## Hi there :bug:
 
-<img src="https://github.com/skojaku/skojaku/blob/master/skojaku-welcome-top-image.png?raw=true" alt="banner that says Sadamori Kojaku - network science, science of science and graph embedding">
+<img src="https://raw.githubusercontent.com/skojaku/skojaku/refs/heads/master/skojaku-welcome-top-image.png" alt="banner that says Sadamori Kojaku - network science, science of science and graph embedding">
 
 I am an Assistant Professor at Binghamton University, working at the intersection of Network Science and Representation Learning. 
 
@@ -10,6 +10,7 @@ See my profile at 👉 [skojaku.github.io](https://skojaku.github.io)
 
 | code                                                                                                               | tags                                                   |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ |
+| [Degree-corrected link prediction benchmark](https://github.com/skojaku/degree-corrected-link-prediction-benchmark)| #network-science/link-prediction                       |
 | [Stacking model for link prediction](https://github.com/skojaku/stacklp)                                           | #network-science/link-prediction                       |
 | [LFR network](https://github.com/skojaku/LFR-benchmark)                                                            | #network-science/community-detection                   |
 | [Element-centric similarity](https://gist.github.com/skojaku/1a08a7d6145ede982eced83a2d4f50d2)                     | #network-science/community-detection                   |
@@ -24,7 +25,6 @@ See my profile at 👉 [skojaku.github.io](https://skojaku.github.io)
 | [My collection of graph embedding](https://github.com/skojaku/graphvec)                                            | #network-science/graph-embedding                       |
 | [residual2vec](https://github.com/skojaku/residual2vec)                                                            | #network-science/graph-embedding                       |
 | [FastRP](https://gist.github.com/skojaku/8b4c75edbb61db3c9fbe914eb4bf585a)                                         | #network-science/graph-embedding                       |
-|                                                                                                                    |                                                        |
 
 ### Machine Learning
 
