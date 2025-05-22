@@ -32,4 +32,12 @@ See my profile at 👉 [skojaku.github.io](https://skojaku.github.io)
 | ------------------------------------------------------------------------------------------------------------ | -------------------------------- |
 | [Practical guide to sentence embedding](https://github.com/skojaku/Practical-Guide-to-Sentence-Transformers) | #machine-learning/text-embedding |
 | [Multilabel classification algorithms based on k-nearest neighbor algorithms](https://github.com/skojaku/multilabel_knn)| #machine-learning/classification | 
-| [Birch algorithm based on cosine similarity](https://gist.github.com/skojaku/2a52178cbf9dade53c69c54208a1b1f0) | #machine-learning/clustering |                                                                                                 
+| [Birch algorithm based on cosine similarity](https://gist.github.com/skojaku/2a52178cbf9dade53c69c54208a1b1f0) | #machine-learning/clustering | 
+
+
+### Productivity tools 
+
+| code                                                                                                         | tags                             |
+| ------------------------------------------------------------------------------------------------------------ | -------------------------------- |
+| [doi2bibtex](https://gist.github.com/skojaku/35c00f6a78f7e651b866050d9cbd7e9a) | #latex |
+| [json2slide](https://gist.github.com/skojaku/7bac0e3f6fa48ed3c80dc8129e0b49c8) | #teaching |
