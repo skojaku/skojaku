@@ -40,6 +40,7 @@ See my profile at 👉 [skojaku.github.io](https://skojaku.github.io)
 | ------------------------------------------------------------------------------------------------------------ | -------------------------------- |
 | [Openalex](https://github.com/skojaku/openalex-dataset) | #science-of-science/data | 
 | [arxiv](https://github.com/skojaku/arxiv-dataset) | #science-of-science/data | 
+| [Case Law](https://github.com/skojaku/caselaw-dataset) | #science-of-science/data | 
 | [Long-term citation model](https://gist.github.com/skojaku/8494552b3012d047f6555b5f322e3eaf)                       | #science-of-science #network-science/citation-dynamics |
 | [Author-Paper-Citation Model](https://github.com/skojaku/author-paper-citation-model/tree/main#)                   | #science-of-science #network-science/citation-dynamics |
 | [Disruption index](https://gist.github.com/skojaku/cee26755645b133a69d6630c79307cde)                               | #science-of-science  #network-science/disruption-index |
