@@ -6,6 +6,12 @@ I am an Assistant Professor at Binghamton University, working at the intersectio
 
 See my profile at 👉 [skojaku.github.io](https://skojaku.github.io)
 
+### AI Skills
+
+- [Marimo Walkthough skill](https://github.com/skojaku/marimo-walkthrough-skill) - a skill to generate [marimo notebook](https://marimo.io/) to walk through results of an experiment. 
+- [Snakemake skill](https://github.com/skojaku/snakemake-skill) - a skill to generate & organize reproducible pipeline for research. 
+
+
 ### Networks 
 
 | code                                                                                                               | tags                                                   |
